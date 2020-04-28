@@ -1,0 +1,25 @@
+{
+  "name": "google-spreadsheet-test",
+  "description": "Testing connecting to a Google Docs Spreadsheet using Node.js",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "bugs": {
+    "url": "https://github.com/pdehaan/google-spreadsheet-test/issues"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "google-spreadsheet": "^3.0.11"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/pdehaan/google-spreadsheet-test#readme",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/google-spreadsheet-test.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
